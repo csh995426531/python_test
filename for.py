@@ -5,3 +5,8 @@ else:
 
 
 print(list(range(1,10,2)))
+array = list(range(1,10))
+for a in array:
+	print(a)
+else:
+	print('结束了')
